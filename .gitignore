@@ -1,0 +1,11 @@
+/vendor
+/.idea
+/.vscode
+/.phpunit.result.cache
+/.last_open_payment_uuid
+/.env
+/.env.local
+/.env.*
+/.phpstorm.meta.php
+/.DS_Store
+/scripts/
